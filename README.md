@@ -18,7 +18,7 @@ Welcome to our Currency Converter project! This application allows users to easi
 - *Backend:* Node.js , Express.js
 - *Database:* SQL
 
- Access the application in your browser at http://localhost:3000
+ Access the application in your browser at http://localhost:7077
 
 All required packages are already included with the repository, so there's no need to install additional dependencies.
 
