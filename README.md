@@ -22,9 +22,3 @@ Welcome to our Currency Converter project! This application allows users to easi
 
 All required packages are already included with the repository, so there's no need to install additional dependencies.
 
-## Contributors
-
-- Aditya Singhal
-- Akash Maurya
-- Satvika Mamindla
-- Sathwika Bairoju
